@@ -3,7 +3,7 @@
  *
  * Create an object called 'me' that has three keys, 'firstname', 'age', and 'state'.
  * Assign the keys the appropriate values.
- */
+ *///
 
 var me = {
   firstname:'Andres',
